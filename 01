@@ -1,0 +1,7 @@
+echo "# minjhen" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/jean617426/minjhen.git
+git push -u origin master
